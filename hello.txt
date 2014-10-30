@@ -1,0 +1,16 @@
+Mike, M, 20
+Katie, F, 18
+Charlie, M, 19
+Rachel, F, 21
+Joe, M, 39
+Regina, F, 51
+Tommy, M, 25
+Sarah, F, 9
+Ryan, M, 21
+Casey, F, 18
+Billy, F, 26
+Noah, M, 35
+Sebastian, M, 18
+Victoria, F, 22
+Thomas, M, 17
+Matthew, M, 19
